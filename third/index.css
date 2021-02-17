@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.header-bar {
+    background-color: grey;
+    padding: 10px;
+    width: 100%;
+}
+.logo {
+    background-color: rgb(69, 167, 228);
+   height: 75px;
+    width:75px;
+    padding: 20px;
+    margin-left: 20px;
+    background-image: url(https://www.abc.net.au/cm/rimage/11851850-3x2-large.jpg?v=2);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.description {
+    padding: 25px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.style-box {
+    height: 110px;  
+    width: 100%;
+}
+.style-box-1 {
+    background-color: skyblue;
+}
+.style-box-2 {
+    background-color: turquoise;
+}
+.style-box-3 {
+    background-color: rgb(167, 241, 18);
+}
+.style-box-4 {
+    background-color: yellow;
+}

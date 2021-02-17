@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 25px;
+}
+
+.container-one {
+ border-color: black;  
+ border-width: 3px; 
+ border-style: solid;
+ padding: 5px;
+}
+
+.square-one {
+background-color: blueviolet;
+height: 90px;
+width: 40px;
+display:inline-block;
+margin-right: 25px;
+}
+
+.square-two {
+    background-color: chartreuse;
+    height: 110px;
+    width: 200px;
+    display:inline-block;
+    
+}
+
+.circle-one {
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display:inline-block;
+    margin-left: 25px;
+}
+
+.container-two {
+   border-color: black;
+    border-width: 3px;
+    border-style: dotted;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+
+.box-shadow {
+     height: 100px; 
+  
+    background-color: blanchedalmond;
+    box-shadow: 5px 5px rgb(0, 0, 0);
+}
+
+.container-three {
+    box-shadow: 2px 2px 3px rgba(133, 126, 126, 0.3);
+    border-color: rgb(241, 241, 232);
+    border-width: 1px;
+    border-style: solid;
+    padding: 45px;
+    width: 250px;
+    text-align: center ;
+    margin: auto;
+    margin-top: 25px;
+    color: rgb(12, 40, 126);
+}
+
+
+
+
+
+/* element selectors
+body {}
+div {}
+a {}
+nav {}
+
+class selectors 
+.my-class {}
+.my-other-class {} 
+
+id selector
+#my-id {}
+#my-other-id {}
+
+mixed selectors
+.my-class.my-other-class {}
+.my-container-class > .my-direct-child-class {}
+div.red {}
+a[href="google.com"] { }
+*/
+
